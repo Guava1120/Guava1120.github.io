@@ -12,19 +12,8 @@ nav > ul {
     list-style: none;   /* 移除項目符號 */
 }
 
-.1{
- background-color: #000;
- overflow: hidden;
-}
-
 .2{
  float: left;
- left: 50%;
- position: relative;
 }
 
-.2 >li {
- float: left;
- position: relative;
- right: 50%;
-}
+
