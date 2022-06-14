@@ -3,11 +3,6 @@
 h1{color:rgb(51,130,35);font-style:italic;font:size 60px;}
 h2{color:rgb(51,130,35);font-style:italic;font:size 60px;}
 </style>
-
-.1 {
-  display: flex;
-  justify-content: center;
-}
   
 nav a {
     text-decoration: none;  /* 移除超連結底線 */
