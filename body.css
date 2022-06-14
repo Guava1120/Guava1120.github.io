@@ -4,9 +4,7 @@ h1{color:rgb(51,130,35);font-style:italic;font:size 60px;}
 h2{color:rgb(51,130,35);font-style:italic;font:size 60px;}
 </style>
 
-body{background-color:rgb(175,200,242);margin: 30px}
+body{background-color:rgb(175,200,242);margin: 50px}
 
   
-  nav a{font-size:35px,color:blue;text-decoration:none;}
-  nav>ul{list-style: none;  margin:30;padding: 25;}
-  nav a:hover {background-color: rgb(135,135,135);color:blue;)
+  
